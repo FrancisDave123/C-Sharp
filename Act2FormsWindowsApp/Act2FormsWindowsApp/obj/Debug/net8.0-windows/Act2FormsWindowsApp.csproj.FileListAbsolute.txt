@@ -1,0 +1,16 @@
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\bin\Debug\net8.0-windows\Act2FormsWindowsApp.exe
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\bin\Debug\net8.0-windows\Act2FormsWindowsApp.deps.json
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\bin\Debug\net8.0-windows\Act2FormsWindowsApp.runtimeconfig.json
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\bin\Debug\net8.0-windows\Act2FormsWindowsApp.dll
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\bin\Debug\net8.0-windows\Act2FormsWindowsApp.pdb
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.Form1.resources
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.csproj.GenerateResource.cache
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.AssemblyInfo.cs
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.dll
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\refint\Act2FormsWindowsApp.dll
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.pdb
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\Act2FormsWindowsApp.genruntimeconfig.cache
+C:\Users\Dave\source\repos\Act2FormsWindowsApp\Act2FormsWindowsApp\obj\Debug\net8.0-windows\ref\Act2FormsWindowsApp.dll
